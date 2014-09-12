@@ -1,6 +1,6 @@
 {
   "name": "callback-error-middleware",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Invoke a callback if the response is bad",
   "main": "index.js",
   "scripts": {
